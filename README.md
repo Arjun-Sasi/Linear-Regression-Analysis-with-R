@@ -5,7 +5,6 @@ This script analyzes the relationship between body fat percentage and abdomen si
 
 ## Requirements
 
-R
 R packages: readxl, car
 
 ## Setup
