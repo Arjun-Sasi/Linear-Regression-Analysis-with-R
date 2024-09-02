@@ -25,12 +25,12 @@ data <- read_excel("BodyFatData.xlsx")
 
 ## Key Steps
 
-### Data Visualization: Create histograms and box plots to visualize body fat and abdomen size distributions.
+#### Data Visualization: Create histograms and box plots to visualize body fat and abdomen size distributions.
 
-### Summary Statistics: Calculate mean, median, and standard deviation for body fat and abdomen size.
+#### Summary Statistics: Calculate mean, median, and standard deviation for body fat and abdomen size.
 
-### Correlation and Regression: Check the correlation and fit a linear regression model between body fat and abdomen size.
+#### Correlation and Regression: Check the correlation and fit a linear regression model between body fat and abdomen size.
 
-### Model Evaluation: Use R-squared, MSE, and RMSE to evaluate the model's performance.
+#### Model Evaluation: Use R-squared, MSE, and RMSE to evaluate the model's performance.
 
-### Prediction: Predict body fat for a given abdomen size (e.g., 100 cm).
+#### Prediction: Predict body fat for a given abdomen size (e.g., 100 cm).
