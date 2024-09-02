@@ -1,5 +1,6 @@
-#README: Body Fat Analysis Script
-##Description
+Body Fat Analysis Script
+
+Description
 This script analyzes the relationship between body fat percentage and abdomen size using statistical methods and visualizations.
 
 Requirements
